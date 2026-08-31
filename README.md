@@ -15,7 +15,6 @@ Part 1 needs only the data; Parts 2-3 need StMoMo (Part 3 takes ~2-5 min).
 7 PNG files in ./figures/ plus capital_grid_R.csv (use it to update Table 5.2).
 # Note: 
 the numbers produced by Part 3 are the results of MY run; the figures in Tables 5.1/5.2/5.3 and in the text of the dissertation should be updated to match them. Small differences from any earlier prototype results are normal and genuine.
-# ============================================================================
 
 ## ---- PART 0 . packages, palette, data -------------------------------------
  install.packages(c("ggplot2", "patchwork", "StMoMo"))   
